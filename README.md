@@ -6,7 +6,7 @@ JS调用Android（Java）接口
 器代码在JsNativeNode文件夹中（这里使用Node.js编写）
 
 ## 截图
-<a href="./art/jietu.png"><img src="./art/jietu.png" width=40% height="40%"/></a>
+<a href="./art/jietu.png"><img src="./art/jietu.png"/></a>
 
 ## 教程
 * [Android 中JS 调用java 代码 - 简书 ](https://www.jianshu.com/p/4eb93bf880a9)
