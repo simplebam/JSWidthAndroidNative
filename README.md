@@ -11,3 +11,6 @@ JS调用Android（Java）接口
 ## 教程
 * [Android 中JS 调用java 代码 - 简书 ](https://www.jianshu.com/p/4eb93bf880a9)
 
+## 推荐阅读
+* [(更新，已反射hook到onActivityResult)如何避免使用onActivityResult，以提高代码可读性 - 掘金 ](https://juejin.im/post/5a4611786fb9a0451a76b565)
+* [一键切换应用环境工具（EnvironmentSwitcher）了解一下？](https://mp.weixin.qq.com/s/A_pJZxGFg4wMWaERJ3AidA)
